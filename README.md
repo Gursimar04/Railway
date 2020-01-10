@@ -1,8 +1,9 @@
 # Railway Reservation Simulator model With Seat Booking GUI
 > A simple Java Application which deals with railway reservation with emphesis on giving the user the freedom to choose any available seat rather than a random seat being alloted to them
----
 
 <img src="images/pro.png" width=400>
+
+---
 
 ### Table Of Contents
 - [Description](#description)
@@ -16,14 +17,14 @@
 
 The Fourth largest railway netork in the world, The Indian railway runs more than 20,000 passenger trains daily, on both long-distance and suburban routes, from 7,349 stations across India. This java based project simply allows a user to simulate the booking process with the added functionality of being specific about the seats( and coach) that the user desires. The user can also view his previous journies, cancel ticket, view the train chart, find a trains information, check pnr and can obviously create new accounts or delete previous accounts. All trains added have their original working days, number of coaches and seats.
 
-<img src="images/findtrain.png" width=400>
-
-<img src="images/gui.png" width=400>
-
 ### Technologies
 
 - JAVA
 - MySQL
+
+<img src="images/findtrain.png" width=400>
+
+<img src="images/gui.png" width=400>
 
 ---
 
