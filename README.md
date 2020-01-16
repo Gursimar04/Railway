@@ -10,6 +10,7 @@
 - [Constraints](#constraints)
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
+- [License](#license)
 
 ---
 
@@ -27,12 +28,16 @@ The Fourth largest railway netork in the world, The Indian railway runs more tha
 <img src="images/gui.png" width=400>
 
 ---
+## License
+MIT License
 
-## Constraints
-- The database has only few trains added to it.
-- User has to search for stations using the station code. 
-- No option for RAC/ Waiting List currently
-- The user can book atmost 10 days in advance.
+Copyright (c) 2020 Gursimar Singh Bedi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -41,6 +46,11 @@ The Fourth largest railway netork in the world, The Indian railway runs more tha
  The code for the database is in a notepad file, to be copied to MySQL.This reservation simulation model has 4 static tables: Users,Train,Station,Path. Although each time the first reservation for a perticular date is made a table is dynamically created for the chart information.
  ### Login
  Default login username=user password=pass or one can simply create a new account.
+ ### Constraints
+- The database has only few trains added to it.
+- User has to search for stations using the station code. 
+- No option for RAC/ Waiting List currently
+- The user can book atmost 10 days in advance.
 
 ---
 
