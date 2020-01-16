@@ -7,10 +7,9 @@
 
 ### Table Of Contents
 - [Description](#description)
-- [Constraints](#constraints)
+- [License](#license)
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
-- [License](#license)
 
 ---
 
